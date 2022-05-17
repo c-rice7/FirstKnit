@@ -1,5 +1,5 @@
 ---
-title: "First Knit test"
+title: "First Knit"
 author: "Connor Rice"
 output: 
   html_document:
